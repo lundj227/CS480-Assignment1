@@ -712,8 +712,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   speed: 10
+  jumpForce: 7
+  groundNormalThreshold: 0.5
   countText: {fileID: 1727420102}
-  winTextObject: {fileID: 0}
+  winTextObject: {fileID: 651015572}
 --- !u!114 &631744185
 MonoBehaviour:
   m_ObjectHideFlags: 0
